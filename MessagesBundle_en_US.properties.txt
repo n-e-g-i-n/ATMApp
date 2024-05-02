@@ -1,0 +1,9 @@
+title=ATM Machine
+enter_password=Enter Password:
+login=Login
+incorrect_password=Incorrect password. Try again.
+main_menu=Main Menu
+withdraw=Withdraw
+deposit=Deposit
+check_balance=Check Balance
+change_password=Change Password
